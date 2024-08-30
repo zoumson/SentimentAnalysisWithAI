@@ -22,7 +22,7 @@ post_comments_with_labels = [
     ("I can't believe you would post this.", "neg"),
 ]
 new_comment = "Love this post"
-cl = by.NaiveBayesClassifier(by.post_comments_with_labels)
+cl = by.NaiveBayesClassifier(post_comments_with_labels)
 
 result = cl.classify(new_comment)
 
