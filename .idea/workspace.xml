@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7899a16-f9f3-45e3-b3a6-7394164fcfe8" name="Changes" comment="create main file">
-      <change afterPath="$PROJECT_DIR$/bayes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f7899a16-f9f3-45e3-b3a6-7394164fcfe8" name="Changes" comment="added comment on the implementation of the bayes classifier based on previous comments received">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,11 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725003320404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added comment on the implementation of the bayes classifier based on previous comments received">
+      <option name="closed" value="true" />
+      <created>1725004224440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725004224440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create main file" />
-    <option name="LAST_COMMIT_MESSAGE" value="create main file" />
+    <MESSAGE value="added comment on the implementation of the bayes classifier based on previous comments received" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comment on the implementation of the bayes classifier based on previous comments received" />
   </component>
 </project>
